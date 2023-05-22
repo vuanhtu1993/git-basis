@@ -4,4 +4,4 @@ window.onscroll = function () {
     const percentage = scroll / height * 100
     document.querySelector("#myBar").style.width = percentage + "%"
 }
-// Edit sth 2
+// Edit sth tuva9_3
